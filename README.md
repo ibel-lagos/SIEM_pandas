@@ -11,5 +11,6 @@ Este proyecto es un **SIEM casero** desarrollado en Python que utiliza la librer
 - Librería Pandas
 
 ## 📦 Instalación de dependencias
-```bash: pip install pandas
+```bash
+pip install pandas
 
